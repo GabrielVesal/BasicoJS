@@ -6,7 +6,7 @@ Fundamentos Basicos JavaScrip
 - Loop
 - Integração com eventos na tela
 
-studi.js { Tipos de variaveis
+study.js { Tipos de variaveis
 - Arrays e Objetos
 - Funções
 - Condição
